@@ -120,12 +120,7 @@
 				    <h4 style="text-align:center"><a class="btn" href="product_details.html"> <i class="icon-zoom-in"></i></a> <a class="btn" href="#">Add to <i class="icon-shopping-cart"></i></a> <a class="btn btn-primary" href="#">Rp 222K</a></h4>
 				</div>
 			  </div><br/>
-			<div class="thumbnail">
-				<img src="<?php echo base_url()?>assets/themes/images/payment_methods.png" title="Bootshop Payment Methods" alt="Payments Methods">
-				<div class="caption">
-				  <h5>Pembayaran</h5>
-				</div>
-			  </div>
+			
 	</div>
 <!-- Sidebar end=============================================== -->
 		<div class="span9">		
